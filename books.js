@@ -1,9 +1,9 @@
 /* 
-    ∞ Buscando e contando dados em Arrays ∞
-    Baseado no Array de Livros divididos nas categorias de clássicos da Literatura Britânica e Americana.
-        • Contar o número de categorias e o número de livros em cada categoria
-        • Contar o número de autores
-        • Transformar a função acima em uma função que irá receber o nome do autor e devolver os livros desse autor.
+    ∞ Fetching and counting data in Arrays ∞
+    Based on the Array of Books divided into the categories of classics of British and American Literature.
+         • Count the number of categories and the number of books in each category
+         • Count the number of authors
+         • Transform the above function into a function that will receive the author's name and return the author's books.
 */
 
 const booksByCategory = [
